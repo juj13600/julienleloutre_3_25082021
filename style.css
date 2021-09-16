@@ -826,6 +826,12 @@ h4 {
 .bg-presentation {
     background-image: url("img/imgavif/image-de-presentation.avif");
 }
+.btn-black{
+    background-color: black;
+}
+.btn-black:hover{
+    background-color: grey;
+}
 
 @media (max-width: 1024px) {
     .bloc {
