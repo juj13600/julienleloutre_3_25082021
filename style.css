@@ -831,6 +831,7 @@ h4 {
 }
 .btn-black:hover{
     background-color: grey;
+    border: 2px solid black;
 }
 
 @media (max-width: 1024px) {
